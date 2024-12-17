@@ -1,2 +1,2 @@
-# xyrin_emeralcore
+# xyrin_emeraldcore
 The core functionalities of Xyrin
